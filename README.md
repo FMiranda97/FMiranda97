@@ -3,7 +3,7 @@
 I'm Francisco Miranda, a Master in Informatics Engineering, Fullstack developer and Machine Learning Engineer.
 
 - 🔭 Looking for job opportunities
-- 🌱 Currently learning to get my AWS Solutions Architect Associate certification
+- 🌱 Currently learning to get my AWS Solutions Architect Professional certification
 - 🤔 My most recent pet project is a votation scrapper for the portuguese Parliament
 - ⚡ None of the above are correlated, I like to diversify my work a lot
 - 📫 How to reach me: www.linkedin.com/in/francisco-paim-miranda/ | brugesmiranda@gmail.com
